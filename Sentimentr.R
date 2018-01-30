@@ -7,7 +7,7 @@ library(devtools)
 
 #Sentiment Scoring:
   # Positive Scoring - Aggregated (Averaged) Sentiment Score:
-    sentimentr::sentiment_by('i am the happiest man in the world', by = NULL)
+    sentimentr::sentiment_by('i am happy with my life', by = NULL)
 
   # Negative Scoring - Aggregated (Averaged) Sentiment Score:
     sentimentr::sentiment_by('i am the most saddest person in the world', by = NULL) 
