@@ -13,10 +13,10 @@ The author of the package himself explaining what does sentimentr do that other 
 
 “sentimentr attempts to take into account valence shifters (i.e., negators, amplifiers (intensifiers), de-amplifiers (downtoners), and adversative conjunctions) while maintaining speed. Simply put, sentimentr is an augmented dictionary lookup. The next questions address why it matters.”
 
-  1. element_id – ID / Serial Number of the given text
-  2. sentence_id – ID / Serial Number of the sentence and this is equal to element_id in case of sentiment_by
-  3. word_count – Number of words in the given sentence
-  4. sentiment – Sentiment Score of the given sentence
+  1. **element_id**  – ID / Serial Number of the given text
+  2. **sentence_id** – ID / Serial Number of the sentence and this is equal to element_id in case of sentiment_by
+  3. **word_count**  – Number of words in the given sentence
+  4. **sentiment**   – Sentiment Score of the given sentence
 
 
 Sentiment ***Package*** Detail:
